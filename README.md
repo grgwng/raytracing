@@ -2,7 +2,8 @@
 
 A C++ ray tracing renderer that produces photorealistic images by simulating light rays.
 
-<img width="1200" height="675" alt="first_render_high_def" src="https://github.com/user-attachments/assets/e5b397ae-bd6b-4539-9af1-e6ae2c4eb5da" />
+<img width="1200" height="675" alt="image (2)" src="https://github.com/user-attachments/assets/fa4a2c3f-c776-4437-a705-5347f26b2a36" />
+
 
 ## Features
 Supports rendering
